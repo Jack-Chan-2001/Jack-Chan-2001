@@ -3,7 +3,7 @@
 
 I'm Jack Chan, a student from Hangzhou.
 
-![](https://komarev.com/ghpvc/?username=Jack-Chan-2001&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Jack-Chan-2001&label=PROFILE_VIEWS)
 <!--
 **Jack-Chan-2001/Jack-Chan-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chan-2001&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chan-2001&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Chan-2001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Jack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Chan-2001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
