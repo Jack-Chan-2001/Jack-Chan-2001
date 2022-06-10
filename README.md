@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hi there 👋  
 ### Hello 👋
-
-I'm Jack Chan, a student from Hangzhou.
-
 ![](https://komarev.com/ghpvc/?username=Jack-Chan-2001&label=PROFILE_VIEWS)
+
+I'm Jack Chan. 
+- ✝ I'm a christian who believes in God's mercy.
+- 🔭 I’m currently studying in Zhejiang University.
+- 📫 How to reach me: [Email](mailto:chenjieke2001@gmail.com?subject=[GitHub]%20)
+
+
 <!--
 **Jack-Chan-2001/Jack-Chan-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
