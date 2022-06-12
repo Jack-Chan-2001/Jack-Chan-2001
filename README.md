@@ -1,5 +1,7 @@
 ## Hi there 👋  
-### Hello 👋
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Jack%20Chan&fontAlign=60&fontAlignY=30&color=8ba6ff&fontColor=ffffff)
+
 ![](https://komarev.com/ghpvc/?username=Jack-Chan-2001&label=PROFILE_VIEWS)
 
 I'm Jack Chan. 
