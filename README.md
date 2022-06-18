@@ -1,4 +1,4 @@
-# Hi there 👋  
+<h1 align="center">Hi there 👋, it's Jack Chan.</h1>
 
 ![](https://komarev.com/ghpvc/?username=Jack-Chan-2001&label=PROFILE_VIEWS)
 
@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chan-2001&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Chan-2001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jack-Chan-2001&theme=dark)](https://git.io/streak-stats) -->
