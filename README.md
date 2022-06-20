@@ -1,8 +1,10 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Jack%20Chan&fontAlign=60&fontAlignY=30&color=8ba6ff&fontColor=ffffff)
+
+
 <h1 align="center">Hi there 👋, it's Jack Chan.</h1>
 
 ![](https://komarev.com/ghpvc/?username=Jack-Chan-2001&label=PROFILE_VIEWS)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Jack%20Chan&fontAlign=60&fontAlignY=30&color=8ba6ff&fontColor=ffffff)
 
 - ✝ I'm a christian who believes in God's mercy.
 - 🔭 I’m currently studying in Zhejiang University.
