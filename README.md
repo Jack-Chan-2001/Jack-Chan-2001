@@ -6,7 +6,8 @@
 
 - ✝ I'm a christian who believes in God's mercy.
 - 🔭 I’m currently studying in Zhejiang University.
-- 📫 How to reach me: [Email](mailto:chenjieke2001@gmail.com?subject=[GitHub]%20)
+<!-- - 📫 How to reach me: [Email](mailto:chenjieke2001@gmail.com?subject=[GitHub]%20) -->
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenjieke2001@gmail.com)](mailto:chenjieke2001@gmail.com?subject=[GitHub]%20)
 
 
 <!--
@@ -23,6 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Some Statistics About Me
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chan-2001&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
