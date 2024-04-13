@@ -6,7 +6,7 @@
 
 
 - ✝ I'm a christian who believes in God's mercy.
-- ⚡ Currently working on rock-chips Algo.
+- ⚡ Currently working on Rock-Chips Algo.
 - 🔭 Undergrad @ ZJU ISEE.
 <!-- - 📫 How to reach me: [Email](mailto:chenjieke2001@gmail.com?subject=[GitHub]%20) -->
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenjieke2001@gmail.com)](mailto:chenjieke2001@gmail.com?subject=[GitHub]%20)
